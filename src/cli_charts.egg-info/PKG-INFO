@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: cli-charts
+Version: 0.0.1
+Summary: A python package for visualizing graphs and charts right in your CLI!
+Author-email: Sam <samuelayodeji2478@gmail.com>
+Project-URL: Homepage, https://github.com/olascoWorks/cli-charts
+Project-URL: Issues, https://github.com/olascoWorks/cli-charts/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
 # cli-charts
 
 cli-charts is a simple Python package for visualizing graphs and charts directly in the CLI.
